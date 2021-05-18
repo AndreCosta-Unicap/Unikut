@@ -11,7 +11,7 @@ public class Aplicacao {
 	public static void main(String[] args) {
 		Unikut social = new Unikut();
 
-		//social.menuStart();
-		social.startView();
+		social.menuStart();
+		//social.startView();
 	}
 }
